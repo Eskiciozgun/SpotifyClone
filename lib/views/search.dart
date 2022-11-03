@@ -349,7 +349,7 @@ class _SearchPageState extends State<SearchPage> {
                               Container(
                                 margin: EdgeInsets.only(bottom: 15, left: 10),
                                 child: Text(
-                                  'Türkçe Rap',
+                                  'Türkçe Rapx',
                                   style: TextStyle(
                                       color: Colors.white,
                                       fontSize: 17,
